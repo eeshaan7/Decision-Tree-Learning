@@ -1,0 +1,26 @@
+Decision Forest Analysis by selecting any 500 features at random - 
+
+Number of Trees = 40
+Decision Forest Accuracy on Training Set = 99.6
+Decision Forest Accuracy on Validation Set = 78
+Decision Forest Accuracy on Test Set = 75.8
+
+Number of Trees = 60
+Decision Forest Accuracy on Training Set = 100
+Decision Forest Accuracy on Validation Set = 78.1
+Decision Forest Accuracy on Test Set = 78.1
+
+Number of Trees = 80
+Decision Forest Accuracy on Training Set = 99.7
+Decision Forest Accuracy on Validation Set = 79.4
+Decision Forest Accuracy on Test Set = 79.7
+
+Number of Trees = 100
+Decision Forest Accuracy on Training Set = 99.5
+Decision Forest Accuracy on Validation Set = 78.4
+Decision Forest Accuracy on Test Set = 79.6
+
+Number of Trees = 120
+Decision Forest Accuracy on Training Set = 99.2
+Decision Forest Accuracy on Validation Set = 79.4
+Decision Forest Accuracy on Test Set = 79.8

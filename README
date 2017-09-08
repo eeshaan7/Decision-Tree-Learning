@@ -1,0 +1,26 @@
+Machine Learning - Lab 1
+==========================
+Eeshaan Sharma
+2015CSB1011
+
+Compiling and running code
+----------------------------
+1. Go to the code folder. Open terminal there.
+$ g++ main.cpp
+
+$ ./a.out label.feat 2
+$ ./a.out label.feat 3
+$ ./a.out label.feat 4
+$ ./a.out label.feat 5
+
+Where 2, 3, 4, 5 is Expt Number. 
+
+Make sure that label.feat is available, and selected-feature-indices.txt is available within the code folder.
+If the data file and feature file is present somewhere else, the code can be run by:
+./a.out data_file_location exptno feature_file_location
+
+
+For generating data and selected features, make sure ../aclImdb is available.
+$ g++ exp1.cpp
+$ ./a.out
+../data.feat and ../selected-feature-indices.txt would be generated

@@ -1,0 +1,44 @@
+Decision Tree Performance without adding noise - 
+
+Prediction Accuracy on Training Dataset = 100%
+Prediction Accuracy on Validation Dataset = 66.1%
+Prediction Accuracy on Test Dataset = 65.9%
+Height of Decision Tree = 44
+Number of nodes in Decision Tree = 251
+Number of Terminal nodes in Decision Tree = 126
+
+Decision Tree Performance with 0.1% Noise - 
+
+Prediction Accuracy on Training Dataset = 99.9%
+Prediction Accuracy on Validation Dataset = 66.5%
+Prediction Accuracy on Test Dataset = 67.8%
+Height of Decision Tree = 44
+Number of nodes in Decision Tree = 249
+Number of Terminal nodes in Decision Tree = 125
+
+Decision Tree Performance with 1% Noise - 
+
+Prediction Accuracy on Training Dataset = 98.9%
+Prediction Accuracy on Validation Dataset = 66.3%
+Prediction Accuracy on Test Dataset = 62.8%
+Height of Decision Tree = 38
+Number of nodes in Decision Tree = 263
+Number of Terminal nodes in Decision Tree = 132
+
+Decision Tree Performance with 5% Noise - 
+
+Prediction Accuracy on Training Dataset = 94.1%
+Prediction Accuracy on Validation Dataset = 66.4%
+Prediction Accuracy on Test Dataset = 63.6%
+Height of Decision Tree = 42
+Number of nodes in Decision Tree = 277
+Number of Terminal nodes in Decision Tree = 139
+
+Decision Tree Performance with 10% Noise - 
+
+Prediction Accuracy on Training Dataset = 85.9%
+Prediction Accuracy on Validation Dataset = 60.7%
+Prediction Accuracy on Test Dataset = 61%
+Height of Decision Tree = 44
+Number of nodes in Decision Tree = 295
+Number of Terminal nodes in Decision Tree = 148

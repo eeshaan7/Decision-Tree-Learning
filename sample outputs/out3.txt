@@ -1,0 +1,17 @@
+Decision Tree Performance before Prunning - 
+
+Prediction Accuracy on Training Dataset = 100%
+Prediction Accuracy on Validation Dataset = 66.1%
+Prediction Accuracy on Test Dataset = 65.9%
+Height of Decision Tree = 44
+Number of nodes in Decision Tree = 251
+Number of Terminal nodes in Decision Tree = 126
+
+Decision Tree Performance after Prunning - 
+
+Prediction Accuracy on Training Dataset = 69.1%
+Prediction Accuracy on Validation Dataset = 72.5%
+Prediction Accuracy on Test Dataset = 69.1%
+Height of Decision Tree = 23
+Number of nodes in Decision Tree = 91
+Number of Terminal nodes in Decision Tree = 46

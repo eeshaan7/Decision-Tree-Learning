@@ -1,0 +1,77 @@
+Constructing Decision Tree by varying stopping parameter as the probability of positive/negative values in a leaf node
+
+Pure Decision Tree without any Stopping Parameter - 
+Prediction Accuracy on Training Dataset = 100%
+Prediction Accuracy on Validation Dataset = 66.1%
+Prediction Accuracy on Test Dataset = 65.9%
+Height of Decision Tree = 44
+Number of nodes in Decision Tree = 251
+Number of Terminal nodes in Decision Tree = 126
+
+Decision Tree with Stopping Parameter Probability = 0.9 - 
+Prediction Accuracy on Training Dataset = 96.8%
+Prediction Accuracy on Validation Dataset = 66.6%
+Prediction Accuracy on Test Dataset = 66.4%
+Height of Decision Tree = 43
+Number of nodes in Decision Tree = 195
+Number of Terminal nodes in Decision Tree = 98
+
+Decision Tree with Stopping Parameter Probability = 0.8 - 
+Prediction Accuracy on Training Dataset = 90%
+Prediction Accuracy on Validation Dataset = 68.8%
+Prediction Accuracy on Test Dataset = 67.4%
+Height of Decision Tree = 37
+Number of nodes in Decision Tree = 115
+Number of Terminal nodes in Decision Tree = 58
+
+Decision Tree with Stopping Parameter Probability = 0.7 - 
+Prediction Accuracy on Training Dataset = 84.7%
+Prediction Accuracy on Validation Dataset = 69.9%
+Prediction Accuracy on Test Dataset = 69.1%
+Height of Decision Tree = 35
+Number of nodes in Decision Tree = 75
+Number of Terminal nodes in Decision Tree = 38
+
+Most Frequently Used Attributes for splitting -
+
+Attribute - 127 Frequency - 6
+Attribute - 88 Frequency - 5
+Attribute - 49 Frequency - 5
+Attribute - 1328 Frequency - 4
+Attribute - 1103 Frequency - 4
+Attribute - 813 Frequency - 4
+Attribute - 730 Frequency - 4
+Attribute - 694 Frequency - 4
+Attribute - 677 Frequency - 4
+Attribute - 584 Frequency - 4
+Attribute - 530 Frequency - 4
+Attribute - 499 Frequency - 4
+Attribute - 493 Frequency - 4
+Attribute - 476 Frequency - 4
+Attribute - 465 Frequency - 4
+Attribute - 427 Frequency - 4
+Attribute - 392 Frequency - 4
+Attribute - 389 Frequency - 4
+Attribute - 344 Frequency - 4
+Attribute - 322 Frequency - 4
+Attribute - 308 Frequency - 4
+Attribute - 282 Frequency - 4
+Attribute - 270 Frequency - 4
+Attribute - 252 Frequency - 4
+Attribute - 240 Frequency - 4
+Attribute - 231 Frequency - 4
+Attribute - 217 Frequency - 4
+Attribute - 208 Frequency - 4
+Attribute - 201 Frequency - 4
+Attribute - 190 Frequency - 4
+Attribute - 186 Frequency - 4
+Attribute - 162 Frequency - 4
+Attribute - 116 Frequency - 4
+Attribute - 115 Frequency - 4
+Attribute - 108 Frequency - 4
+Attribute - 83 Frequency - 4
+Attribute - 77 Frequency - 4
+Attribute - 75 Frequency - 4
+Attribute - 46 Frequency - 4
+Attribute - 38 Frequency - 4
+Attribute - 2 Frequency - 4
